@@ -1,5 +1,5 @@
 /**
- * Backbone Upload Manager v1.0.7
+ * Backbone Upload Manager v1.0.8
  *
  * Copyright (c) 2013 Samuel ROZE
  *
